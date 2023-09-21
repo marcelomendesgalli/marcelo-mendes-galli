@@ -1,0 +1,12 @@
+.personal-data {
+background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy0GUEX8FBPyoFJfv3glWuDaUMpNJH4oQ1jQ&usqp=CAU');
+background-size: contain;
+background-repeat: repeat-x; 
+}
+.personal-data h1 {
+    font-size: 2rem;
+    color: brown;
+    border-width: 1px;
+    border-style: solid;
+    border-color: gray;
+}
